@@ -1,0 +1,6 @@
+streamlit
+pandas
+requests
+fake-useragent
+beautifulsoup4
+plotly
